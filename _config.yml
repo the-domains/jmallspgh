@@ -1,0 +1,28 @@
+name: jmallspgh
+favicon: null
+layout_spectrum: 0.9578934207092971
+typography_spectrum: 0.9544463001657277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.767255138605833
+  lightness: 0.6436275411397219
+  saturation: 0.6025588386692107
+  rhythmicContrast: 0.23147807735949755
+purpose: []
