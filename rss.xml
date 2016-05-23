@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jmallspgh]]></title>
         <description><![CDATA[jmallspgh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jmallspgh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 20:09:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 22:52:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jmallspgh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test post</p>]]></description>
+            <link>https://thegrid.ai/jmallspgh/test-post/index.html</link>
+            <guid isPermaLink="false">3d159177-b382-4516-8056-8b52273f0bf1</guid>
+            <pubDate>Mon, 23 May 2016 22:52:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to the BRAND NEW beta version of my website. Forget that old, played out beta version of my website. This is the NEW beta version, fresh for 2016! </p>]]></description>
-            <link>undefinedwelcome-to-the-brand-new-beta-version-of-my-website-forget/index.html</link>
+            <link>https://thegrid.ai/jmallspgh/welcome-to-the-brand-new-beta-version-of-my-website-forget/index.html</link>
             <guid isPermaLink="false">76847d52-8a82-4b03-8afe-86df1b422156</guid>
             <pubDate>Mon, 23 May 2016 20:09:51 GMT</pubDate>
         </item>
